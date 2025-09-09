@@ -3,7 +3,7 @@
 # Base directories
 INBOX_DIR="$PWD/inbox"
 PERMANENT_DIR="$PWD/permanent"
-REFERENCES_DIR="$PWD/references"
+REFERENCES_DIR="$PWD/literature"
 
 # UUID for filenaame
 UUID=$(uuidgen)

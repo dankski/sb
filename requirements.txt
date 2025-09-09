@@ -1,0 +1,9 @@
+beautifulsoup4==4.13.5
+narwhals==2.4.0
+networkx==3.5
+numpy==2.3.3
+packaging==25.0
+plotly==6.3.0
+soupsieve==2.8
+typing_extensions==4.15.0
+
